@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring a new world of Programming 
 
-- 📫 How to reach me ** **
+- 📫 How to reach me ** amangoel1256@gmail.com **
   
 <div> <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Aman-G1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
